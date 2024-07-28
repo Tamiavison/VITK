@@ -12,7 +12,7 @@ Ce projet vise à effectuer le suivi des changements d'une tumeur à partir de d
 
 - Ensuite nous avons fait une fonction de recalage pour réaligner les deux images en utilisant une transformation de translation et une métrique de similarité.
 - Nous avons utilisé un optimiseur de descente de gradient avec des pas réguliers pour affiner le recalage.
-- Superposition des deux scan, à gauche le scan 1 à droite le scan2:
+- Superposition des deux scans, à gauche le scan1 à droite le scan2:
   ![Superposition](img/superpostion.png)
 
 ### Prétraitement des images
