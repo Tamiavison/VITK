@@ -50,7 +50,7 @@ Les résultats de l'analyse des tumeurs montrent les éléments suivants :
 
 #### Interprétation
 
-**Augmentation du Volume** : La tumeur a augmenté de près de 17.78% entre les deux scans, ce qui pourrait indiquer une progression de la maladie.
+**Augmentation du Volume** : La tumeur a augmenté de près de 17.78% entre les deux scans, ce qui pourrait indiquer une progression de la tumeur.
 
 ## Difficultés rencontrées
 
